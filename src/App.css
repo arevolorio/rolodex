@@ -7,6 +7,28 @@
   pointer-events: none;
 }
 
+h1 {
+  font-family: 'Baloo Bhai';
+  font-size: 50px;
+  color: #19029c;
+}
+
+h1.title {
+  font-family: 'Baloo Bhai';
+  font-size: 72px;
+  color: #ffffff;
+  margin: 0px;
+}
+p.subtitle{
+  font-family: 'Baloo Bhai';
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Baloo Bhai';
+  font-size: 25px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
